@@ -7,10 +7,6 @@ Easily use your FontAwesome Free icons in React-Native
 
 ```
 npm install --save react-native-svg
-
-or
-
-yarn add react-native-svg
 ```
 
 * Link `react-native-svg`
@@ -22,10 +18,6 @@ react-native link react-native-svg
 # Installation
 
 `npm install react-native-fontawesome-free --save`
-
-or
-
-`yarn add react-native-fontawesome-free`
 
 The postinstall script will then automatically install the pro packages for you.
 
