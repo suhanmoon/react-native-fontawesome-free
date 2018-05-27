@@ -49,7 +49,6 @@ import Icon from "react-native-fontawesome-free";
   prefixType = {
     regular: "far",
     solid: "fas",
-    light: "fal",
     brands: "fab"
   };
 ```
